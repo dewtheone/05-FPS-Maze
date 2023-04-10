@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Hitman.ogg-389109363c0a2547cdfc242c9c313fac.oggstr"
+
+[deps]
+
+source_file="res://Assets/Hitman.ogg"
+dest_files=[ "res://.import/Hitman.ogg-389109363c0a2547cdfc242c9c313fac.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
